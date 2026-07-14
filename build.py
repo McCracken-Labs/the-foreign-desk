@@ -39,6 +39,7 @@ def topbar(active):
     <a href="independent.html"{cls("independent")}>Independent</a>
     <a href="archive.html"{cls("archive")}>Archive</a>
     <a href="about.html"{cls("about")}>About</a>
+    <a class="support" href="https://paypal.me/McCracken365" target="_blank" rel="noopener">♥ Support</a>
   </nav>
 </div></div>'''
 
@@ -150,6 +151,7 @@ def render_page(data, kind):
 
   <footer>
     <b>The Foreign Dispatch</b> · {esc(data["date_human"])} · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
+    <span class="support-line">The Foreign Dispatch is free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Chip in via PayPal</a> to help keep it that way.</span><br>
     Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 The Foreign Dispatch. See <a href="about.html">About</a> for method and sources.
   </footer>
 </div>
@@ -185,6 +187,7 @@ def render_archive(archive):
 
   <footer>
     <b>The Foreign Dispatch</b> · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
+    <span class="support-line">Free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Support via PayPal</a>.</span><br>
     A new edition is archived here automatically every morning.
   </footer>
 </div>

@@ -74,3 +74,8 @@ footer a{color:var(--accent2);}
 
 .masthead .motto{font-family:system-ui,sans-serif; font-size:12px; letter-spacing:2.5px; text-transform:uppercase; color:var(--accent); font-weight:600; margin-top:9px;}
 .masthead .motto + .tag{margin-top:5px;}
+
+.topbar nav a.support{color:var(--accent); font-weight:600;}
+.topbar nav a.support:hover{border-bottom:2px solid var(--accent); padding-bottom:2px;}
+.support-line{display:inline-block; margin:6px 0 2px; color:#4a443b;}
+.support-line a{color:var(--accent); font-weight:600;}
