@@ -12,6 +12,17 @@ import json, os, html
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
+SHARE_JS = """<script>
+function shareSite(){
+  var url = new URL('./', location.href).href;
+  var data = {title:"The Foreign Dispatch", text:"What the world's press is saying about America", url:url};
+  if(navigator.share){ navigator.share(data).catch(function(){}); }
+  else if(navigator.clipboard){ navigator.clipboard.writeText(url).then(flash); }
+  else { window.prompt("Copy this link:", url); }
+}
+function flash(){ var b=document.querySelector(".sharebtn"); if(!b) return; var t=b.textContent; b.textContent="Link copied!"; setTimeout(function(){ b.textContent=t; }, 1500); }
+</script>"""
+
 TAGS = {
     "neutral": ("n-neutral", "Independent"),
     "funded":  ("n-funded",  "State-funded"),
@@ -33,13 +44,14 @@ def esc(s):
 def topbar(active):
     def cls(name): return ' class="active"' if name == active else ''
     return f'''<div class="topbar"><div class="inner">
-  <span class="brand">The Foreign Dispatch</span>
+  <a class="brand" href="./">The Foreign Dispatch</a>
   <nav>
-    <a href="index.html"{cls("today")}>World Press</a>
+    <a href="./"{cls("today")}>World Press</a>
     <a href="independent.html"{cls("independent")}>Independent</a>
     <a href="archive.html"{cls("archive")}>Archive</a>
     <a href="about.html"{cls("about")}>About</a>
     <a class="support" href="https://paypal.me/McCracken365" target="_blank" rel="noopener">♥ Support</a>
+    <button class="sharebtn" type="button" onclick="shareSite()">Share</button>
   </nav>
 </div></div>'''
 
@@ -141,7 +153,7 @@ def render_page(data, kind):
 
 <div class="wrap">
   <header class="masthead">
-    <h1>The Foreign Dispatch</h1>
+    <h1><a href="./">The Foreign Dispatch</a></h1>
     <div class="motto">Outside the box. Outside the border.</div>
     <div class="tag">{cfg["tagline"]}</div>
   </header>
@@ -159,11 +171,12 @@ def render_page(data, kind):
 {sections}
 
   <footer>
-    <b>The Foreign Dispatch</b> · {esc(data["date_human"])} · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
+    <b>The Foreign Dispatch</b> · {esc(data["date_human"])} · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
     <span class="support-line">The Foreign Dispatch is free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Chip in via PayPal</a> to help keep it that way.</span><br>
     Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 The Foreign Dispatch. See <a href="about.html">About</a> for method and sources.
   </footer>
 </div>
+{SHARE_JS}
 </body>
 </html>
 '''
@@ -195,11 +208,12 @@ def render_archive(archive):
   </ul>
 
   <footer>
-    <b>The Foreign Dispatch</b> · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
+    <b>The Foreign Dispatch</b> · <a href="./">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
     <span class="support-line">Free and ad-free. <a href="https://paypal.me/McCracken365" target="_blank" rel="noopener">Support via PayPal</a>.</span><br>
     A new edition is archived here automatically every morning.
   </footer>
 </div>
+{SHARE_JS}
 </body>
 </html>
 '''
