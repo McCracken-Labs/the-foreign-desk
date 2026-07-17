@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-16",
-  "date_human": "Thursday, July 16, 2026",
+  "date_iso": "2026-07-17",
+  "date_human": "Friday, July 17, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
+          "title": "8 Things You Should Know About Trump's Effort to “Take Over” the Midterm Elections",
+          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover-takeaways"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Inside Trump's Effort to \"Take Over\" the Midterm Elections",
-          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover"
+          "title": "Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms",
+          "url": "https://www.propublica.org/article/federal-election-assistance-commission-trump-dismantled"
         }
       ]
     },
@@ -30,15 +30,21 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "Jun 11",
-          "title": "A Point-by-Point Breakdown of Trump's Failed Iran War Objectives",
-          "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/"
+          "date": "Jul 17",
+          "title": "Trump's Formula for Forever Wars",
+          "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "US Empire's Belligerent Decline in Latin America",
-          "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
+          "title": "Donald Trump Is Unpopular. That Only Matters in a Democracy.",
+          "url": "https://jacobin.com/2026/03/trump-election-fraud-ice-authoritarianism"
+        },
+        {
+          "outlet": "openDemocracy (UK)",
+          "lean": "left",
+          "title": "How Trump 2.0 could herald a new age of authoritarian capitalism",
+          "url": "https://www.opendemocracy.net/en/trump-second-term-new-age-authoritarian-capitalism-china-musk/"
         }
       ]
     },
@@ -50,21 +56,28 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Jun 26",
-          "title": "The Senate's failure to rein in Trump on Iran is part of a long history of Congress abdicating its war powers",
-          "url": "https://reason.com/2026/06/26/the-senates-failure-to-rein-in-trump-on-iran-is-part-of-a-long-history-of-congress-abdicating-its-war-powers/"
+          "date": "Jul 17",
+          "title": "Trump makes stolen-election claims in primetime address to the nation",
+          "url": "https://reason.com/2026/07/17/election-vulnerability/"
+        },
+        {
+          "outlet": "Reason",
+          "lean": "libert",
+          "date": "Jul 17",
+          "title": "Trump threatens to revoke ABC and NBC licenses for not broadcasting his election speech",
+          "url": "https://reason.com/2026/07/17/trump-threatens-to-revoke-abc-and-nbc-licenses-for-not-broadcasting-his-election-speech/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "How Trump Left Himself With No Good Solutions on Iran",
-          "url": "https://thedispatch.com/article/trump-iran-strait-of-hormuz-boxed-in/"
+          "title": "Trump's Big Election Fraud Speech",
+          "url": "https://thedispatch.com/newsletter/morning/trumps-big-election-fraud-speech/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "Trump is trapped by the logic of war",
-          "url": "https://unherd.com/2026/03/trump-is-trapped-by-the-logic-of-war/?edition=us"
+          "title": "Mamdani's MAGA power",
+          "url": "https://unherd.com/2026/07/mamdanis-maga-power/"
         }
       ]
     },
@@ -81,10 +94,16 @@
           "url": "https://meduza.io/en/news/2026/07/15/wsj-lindsey-graham-s-russia-sanctions-bill-is-really-a-tariffs-bill-and-some-democrats-fear-it-hands-trump-a-trade-weapon-not-a-blow-to-moscow"
         },
         {
+          "outlet": "IranWire (Iran, in exile)",
+          "lean": "exile",
+          "title": "Trump Gives Iran 1 Week or U.S. Will Target Power Plants & Bridges",
+          "url": "https://iranwire.com/en/news/154991-trump-gives-iran-1-week-or-us-will-target-power-plants-bridges/"
+        },
+        {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "After bashing allies, Trump now wants their help — except from Ukraine",
-          "url": "https://kyivindependent.com/trump-demands-aid-from-partners-snubs-the-one-offering-it/"
+          "title": "Trump makes U-turn on Ukraine drone deal",
+          "url": "https://kyivindependent.com/trump-makes-u-turn-on-ukraine-drone-deal/"
         }
       ]
     },
@@ -96,20 +115,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
-          "url": "https://www.middleeasteye.net/news/iran-strikes-military-assets-gulf-and-jordan-after-us-hits-iranian-cities"
+          "title": "Trump has called Middle East wars 'crazy', but the US-Israel war on Iran may be the craziest yet",
+          "url": "https://www.middleeasteye.net/opinion/trump-has-called-middle-east-wars-crazy-us-israel-iran-war-may-be-craziest-yet"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "'Important to Make Me Happy': Trump Says US Can Raise Tariffs on India 'Very Quickly'",
-          "url": "https://m.thewire.in/article/world/modi-trump-important-to-make-happy-russian-oil-raise-tariffs-quickly"
+          "title": "After Trump's Latest Tariff Threat, India Terms US, EU Criticism 'Unjustified and Unreasonable'",
+          "url": "https://m.thewire.in/article/diplomacy/trump-says-he-will-substantially-raise-tariff-paid-by-india-to-us-over-russian-oil-purchases"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "The US and Iran are back at war. And with one main sticking point, there's no end in sight",
-          "url": "https://theconversation.com/the-us-and-iran-are-back-at-war-and-with-one-main-sticking-point-theres-no-end-in-sight-287492"
+          "title": "Trump is rehashing old claims the 2020 election was stolen. His real aim: sowing doubt in the midterms",
+          "url": "https://theconversation.com/trump-is-rehashing-old-claims-the-2020-election-was-stolen-his-real-aim-sowing-doubt-in-the-midterms-287774"
         }
       ]
     }

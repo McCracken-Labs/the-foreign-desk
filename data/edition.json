@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-16",
-  "date_human": "Thursday, July 16, 2026",
-  "summary": "11 countries. The renewed US-Iran war over the Strait of Hormuz dominates coverage, with fresh US strikes, a reimposed naval blockade and Iranian attacks on Gulf states. Trump's reversal on halting ICE traffic stops and a White House move to release intelligence on China also travel abroad.",
+  "date_iso": "2026-07-17",
+  "date_human": "Friday, July 17, 2026",
+  "summary": "11 countries. Trump's Thursday night primetime address dominates coverage: he accused China of the largest compromise of election data in history, said Beijing took files on 220 million US voters and ordered intelligence declassified, all while reviving his 2020 stolen-election claims. Beijing calls the charges fabricated. New visa limits on foreign students and journalists, and the continuing US-Iran fight over the Strait of Hormuz, also travel abroad.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,23 +11,16 @@
         {
           "outlet": "France 24",
           "lean": "funded",
+          "date": "Jul 17",
+          "title": "Trump accuses China of 'largest compromise' US election data, vows to declassify intelligence",
+          "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
           "date": "Jul 16",
-          "title": "Trump says Iran released 'wrongfully detained' American citizen",
-          "url": "https://www.france24.com/en/americas/20260716-trump-says-iran-released-wrongfully-detained-american-citizen"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "Jul 15",
-          "title": "Trump says ICE should continue traffic stops, contradicting new ban",
-          "url": "https://www.france24.com/en/americas/20260715-trump-says-ice-should-continue-traffic-stops-contradicting-new-ban"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "Jul 13",
-          "title": "Trump reimposes Hormuz blockade, Yemen's Houthis strike Saudi Arabia",
-          "url": "https://www.france24.com/en/middle-east/20260713-trump-reimposes-iran-naval-blockade-threatens-hormuz-fees"
+          "title": "Trump tightens US visa rules, limits stay for foreign students and journalists",
+          "url": "https://www.france24.com/en/americas/20260716-trump-tightens-us-visa-rules-foreign-students-journalists"
         }
       ]
     },
@@ -36,13 +29,6 @@
       "name": "Japan",
       "region": "East Asia",
       "items": [
-        {
-          "outlet": "The Japan Times",
-          "lean": "neutral",
-          "date": "Jul 16",
-          "title": "U.S. launches fresh strikes on Iran as peril in Strait of Hormuz deepens",
-          "url": "https://www.japantimes.co.jp/news/2026/07/16/world/us-strikes-iran-strait/"
-        },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
@@ -62,52 +48,44 @@
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Gulf",
+      "region": "Middle East",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
           "date": "Jul 15",
-          "title": "US resumes Iran ports blockade as Gulf attacks continue: What's the latest?",
-          "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest"
+          "title": "'Really big news': What to know about Trump's primetime speech on Thursday",
+          "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "Jul 14",
-          "title": "'Piracy': Will Trump's 20 percent Hormuz toll find takers?",
-          "url": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers",
-          "note": "An economic read on whether shippers would ever pay a US toll to cross the strait."
+          "date": "Jul 16",
+          "title": "Trump limits length of visas for students, exchange visitors, journalists",
+          "url": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eurasia",
+      "region": "Eastern Europe & Eurasia",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "Jul 15",
-          "title": "Trump says the US will defeat Iran very soon",
-          "url": "https://russian.rt.com/world/news/1657317-tramp-iran-porazhenie",
-          "orig": "Трамп заявил, что США очень скоро нанесут поражение Ирану"
+          "date": "Jul 17",
+          "title": "Trump claims China stole the data of 220 million American voters",
+          "orig": "Трамп заявил о краже данных 220 млн американских избирателей Китаем",
+          "url": "https://russian.rt.com/world/news/1657803-tramp-kitai-dannye-izbirateley"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "Jul 15",
-          "title": "Trump advises Iran to 'behave well'",
-          "url": "https://russian.rt.com/world/news/1657286-tramp-posovetoval-iranu-vesti-sebya-horosho",
-          "orig": "Трамп посоветовал Ирану «вести себя хорошо»"
-        },
-        {
-          "outlet": "RT",
-          "lean": "state",
-          "title": "Trump threatens strikes on Iran's power plants and bridges",
-          "url": "https://russian.rt.com/world/news/1656937-tramp-mosty-iran-ataka",
-          "orig": "Трамп пригрозил ударами по электростанциям и мостам Ирана"
+          "date": "Jul 17",
+          "title": "China denies Trump's accusations of meddling in US elections",
+          "orig": "Китай опроверг обвинения Трампа во вмешательстве в американские выборы",
+          "url": "https://russian.rt.com/world/news/1657808-kitay-vmeshatelstvo-vybory-ssha"
         }
       ]
     },
@@ -119,37 +97,37 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "date": "Jul 11",
-          "title": "China accuses US of ignoring Trump, Xi rapport and targeting Chinese firms",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3360197/china-accuses-us-ignoring-trump-xi-rapport-and-targeting-chinese-firms"
+          "date": "Jul 17",
+          "title": "Trump launches rare broadside against China on US election interference",
+          "url": "https://www.scmp.com/news/us/article/3360854/trump-address-nation-iran-crisis-china-tensions-and-election-fight-intensify"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "date": "Jul 16",
-          "title": "Trump intelligence pick to play 'helpful' role in agreeing economic strategy with China",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3360726/trump-intelligence-pick-play-helpful-role-agreeing-economic-strategy-china"
+          "date": "Jul 17",
+          "title": "China rejects Trump's election meddling claims as 'fabricated' and 'slanderous'",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3360958/china-rejects-trumps-election-meddling-claims-fabricated-and-slanderous"
+        },
+        {
+          "outlet": "Global Times",
+          "lean": "state",
+          "date": "Jul 17",
+          "title": "China has never and will never interfere in the presidential elections of the US: embassy tells GT",
+          "url": "https://www.globaltimes.cn/page/202607/1366195.shtml"
         }
       ]
     },
     {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "Pan-European",
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "Middle East & Eurasia",
       "items": [
         {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "Jul 15",
-          "title": "Iran launches strikes on neighbours as Trump threatens to hit power plants",
-          "url": "https://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
-        },
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "Jul 14",
-          "title": "'We will deal with it,' Trump says as US probes reports of Iranian drones in Cuba",
-          "url": "https://www.euronews.com/2026/07/14/we-will-deal-with-it-trump-says-as-us-probes-reports-of-iranian-drones-in-cuba"
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "date": "Jul 17",
+          "title": "Trump claims China interfered in 2020 polls, contradicts US intel",
+          "url": "https://www.dailysabah.com/world/americas/trump-claims-china-interfered-in-2020-polls-contradicts-us-intel"
         }
       ]
     },
@@ -161,94 +139,93 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Trump says the US will be the 'guardian' of the Strait of Hormuz and asks to be paid for protecting it",
-          "url": "https://www.eluniversal.com.mx/mundo/trump-asegura-que-eu-sera-el-guardian-del-estrecho-de-ormuz-pide-compensacion-por-protegerlo/",
-          "orig": "Trump asegura que EU será el 'guardián' del estrecho de Ormuz; pide compensación por protegerlo"
+          "date": "Jul 17",
+          "title": "Trump accuses China of interfering in US elections, says they wanted him out of the presidency",
+          "orig": "Trump acusa a China de interferir en elecciones de EU, asegura que lo querían fuera de la presidencia",
+          "url": "https://www.eluniversal.com.mx/mundo/en-vivo-trump-da-importante-discurso-desde-la-casa-blanca-sigue-el-minuto-a-minuto/"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Judge voids Trump's deal with the IRS that shielded him from tax audits",
-          "url": "https://www.eluniversal.com.mx/mundo/jueza-anula-acuerdo-de-trump-con-el-irs-que-lo-protege-de-auditorias-fiscales-negociacion-prohibe-reclamar-conductas/",
-          "orig": "Jueza anula acuerdo de Trump con el IRS que lo protege de auditorías fiscales"
+          "date": "Jul 17",
+          "title": "China rejects Trump's accusation of alleged election interference in the US, calls it 'unfounded'",
+          "orig": "China rechaza acusación de Trump sobre supuesta interferencia electoral en EU; es \"infundada\", dice",
+          "url": "https://www.eluniversal.com.mx/mundo/china-rechaza-acusacion-de-trump-sobre-supuesta-interferencia-electoral-en-eu-es-infundada-dice/"
         }
       ]
     },
     {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "Latin America",
       "items": [
         {
-          "outlet": "News24",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "date": "Jul 14",
-          "title": "Oil jumps over 9% as 'very hard' US strikes hit Iran, Trump vows Hormuz control",
-          "url": "https://www.news24.com/world/oil-jumps-over-9-as-very-hard-us-strikes-hit-iran-trump-vows-hormuz-control-20260714-0290"
+          "title": "Trump did shock and awe in 2025 – reality may bite in 2026",
+          "url": "https://www.batimes.com.ar/news/world/trump-did-shock-and-awe-in-2025-reality-may-bite-in-2026.phtml",
+          "note": "A look ahead at how a divided electorate and the cost of living could reshape Trump's year."
+        }
+      ]
+    },
+    {
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
+      "items": [
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "date": "Jul 16",
+          "title": "Trump limits foreign students to four-year US stay",
+          "url": "https://punchng.com/trump-limits-foreign-students-to-four-year-us-stay/"
         },
         {
-          "outlet": "News24",
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Trump to attend World Cup final on Sunday, says White House",
+          "url": "https://punchng.com/trump-to-attend-world-cup-final-on-sunday-says-white-house/"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "date": "Jul 17",
+          "title": "Trump Accuses China of Interfering in 2020 Election During Prime-Time Address",
+          "url": "https://www.kyivpost.com/post/80496"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Trump Says US Will Let Ukraine Build Patriot Systems: 'We'll Show Them How to Make Them'",
+          "url": "https://www.kyivpost.com/post/79854"
+        }
+      ]
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "European Union",
+      "items": [
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "Jul 17",
+          "title": "Trump revives claims of election interference during address to nation",
+          "url": "https://www.euronews.com/2026/07/17/trump-revives-claims-of-election-interference-during-address-to-nation"
+        },
+        {
+          "outlet": "Euronews",
           "lean": "neutral",
           "date": "Jul 15",
-          "title": "US Democrats block massive defence bill over Iran war frustration",
-          "url": "https://www.news24.com/world/us-democrats-block-massive-defence-bill-over-iran-war-frustration-20260715-0341"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "East Africa",
-      "items": [
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Trump grants last-minute work permit extensions to US immigrants",
-          "url": "https://nation.africa/kenya/news/world/trump-grants-last-minute-work-permit-extensions-to-us-immigrants-5524116"
-        },
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Trump interference and team USA's spectacular crash out leave stain on World Cup",
-          "url": "https://nation.africa/kenya/sports/football/trump-interference-and-team-usa-s-spectacular-crash-out-leave-stain-on-world-cup--5519988"
-        }
-      ]
-    },
-    {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East",
-      "items": [
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "US to remove war-battered Syria from 'terrorist sponsor' list",
-          "url": "https://www.dailysabah.com/world/mid-east/us-to-remove-war-battered-syria-from-terrorist-sponsor-list"
-        },
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "Trump orders cutoff of US trade with Spain over NATO spending, Iran",
-          "url": "https://www.dailysabah.com/business/economy/trump-orders-cutoff-of-us-trade-with-spain-over-nato-spending-iran"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Trump opens door to expanded US Navy partnership with Korean shipbuilders",
-          "url": "https://www.koreaherald.com/article/10811275"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "In reversal, Trump says ICE won't halt traffic stops after fatal shootings",
-          "url": "https://www.koreaherald.com/article/10811116"
+          "title": "Iran launches strikes on neighbours as Trump threatens to hit power plants",
+          "url": "https://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
         }
       ]
     }
