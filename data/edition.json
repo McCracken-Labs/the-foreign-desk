@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-17",
-  "date_human": "Friday, July 17, 2026",
-  "summary": "11 countries. Trump's Thursday night primetime address dominates coverage: he accused China of the largest compromise of election data in history, said Beijing took files on 220 million US voters and ordered intelligence declassified, all while reviving his 2020 stolen-election claims. Beijing calls the charges fabricated. New visa limits on foreign students and journalists, and the continuing US-Iran fight over the Strait of Hormuz, also travel abroad.",
+  "date_iso": "2026-07-20",
+  "date_human": "Monday, July 20, 2026",
+  "summary": "11 countries. The deepening US-Iran war leads coverage abroad: the US completed a ninth straight night of strikes as the American death toll reached 17 and Iran's leadership called the ceasefire worthless. The World Cup final outside New York, where Trump was booed while handing Spain the trophy over Argentina, and his revived China election-fraud claims also travel widely.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,16 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "Jul 17",
-          "title": "Trump accuses China of 'largest compromise' US election data, vows to declassify intelligence",
-          "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence"
+          "date": "2026-07-19",
+          "title": "Greeted with boos, Trump lingers on stage to lap up World Cup spotlight",
+          "url": "https://www.france24.com/en/americas/20260719-greeted-with-boos-trump-lingers-on-stage-to-lap-up-world-cup-spotlight",
+          "note": "The final was played on US soil, so the crowd's reaction to the president became its own story abroad."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "Jul 16",
-          "title": "Trump tightens US visa rules, limits stay for foreign students and journalists",
-          "url": "https://www.france24.com/en/americas/20260716-trump-tightens-us-visa-rules-foreign-students-journalists"
+          "date": "2026-07-17",
+          "title": "Trump accuses China of 'largest compromise' US election data, vows to declassify intelligence",
+          "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence"
         }
       ]
     },
@@ -32,60 +33,53 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 16",
-          "title": "White House weighs releasing controversial intel on China and U.S. elections, sources say",
-          "url": "https://www.japantimes.co.jp/news/2026/07/16/world/white-house-intel-china-us-elections/"
+          "date": "2026-07-20",
+          "title": "Trump is silent so far on Iran strategy as U.S. death toll hits 17",
+          "url": "https://www.japantimes.co.jp/news/2026/07/20/world/politics/trump-iran-strategy-us-death/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 16",
-          "title": "Trump demands ICE restart traffic stops after Maine killing",
-          "url": "https://www.japantimes.co.jp/news/2026/07/16/world/trump-ice-traffic-maine-killing/"
+          "date": "2026-07-18",
+          "title": "U.S. partially restores Hong Kong status revoked by Trump, drawing praise from China",
+          "url": "https://www.japantimes.co.jp/news/2026/07/18/asia-pacific/politics/us-hong-kong-status-china/"
         }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Middle East",
+      "region": "Gulf",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "Jul 15",
-          "title": "'Really big news': What to know about Trump's primetime speech on Thursday",
-          "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "Jul 16",
-          "title": "Trump limits length of visas for students, exchange visitors, journalists",
-          "url": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists"
+          "date": "2026-07-18",
+          "title": "Iran suggests MoU 'suspended' as 50 killed in US strikes in July",
+          "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe & Eurasia",
+      "region": "Eurasia",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "Jul 17",
-          "title": "Trump claims China stole the data of 220 million American voters",
-          "orig": "Трамп заявил о краже данных 220 млн американских избирателей Китаем",
-          "url": "https://russian.rt.com/world/news/1657803-tramp-kitai-dannye-izbirateley"
+          "date": "2026-07-20",
+          "title": "Trump: Iran still has missiles, drones and production facilities",
+          "url": "https://russian.rt.com/world/news/1659093-tramp-iran-moschnosti",
+          "orig": "Трамп: у Ирана по-прежнему есть ракеты, БПЛА и производственные мощности",
+          "note": "State television frames the admission as a sign that US strikes have not achieved their aim."
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "Jul 17",
-          "title": "China denies Trump's accusations of meddling in US elections",
-          "orig": "Китай опроверг обвинения Трампа во вмешательстве в американские выборы",
-          "url": "https://russian.rt.com/world/news/1657808-kitay-vmeshatelstvo-vybory-ssha"
+          "title": "Trump says strikes on Iran will continue until he personally stops them",
+          "url": "https://russian.rt.com/world/news/1656936-tramp-udary-iran",
+          "orig": "Трамп заявил, что удары по Ирану продолжатся, пока он лично не остановит их"
         }
       ]
     },
@@ -97,114 +91,75 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "date": "Jul 17",
-          "title": "Trump launches rare broadside against China on US election interference",
-          "url": "https://www.scmp.com/news/us/article/3360854/trump-address-nation-iran-crisis-china-tensions-and-election-fight-intensify"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "date": "Jul 17",
-          "title": "China rejects Trump's election meddling claims as 'fabricated' and 'slanderous'",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3360958/china-rejects-trumps-election-meddling-claims-fabricated-and-slanderous"
+          "title": "China and US still in contact on Xi summit trip despite Trump's election claims",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3361215/china-us-talks-ahead-xi-jinpings-planned-september-visit-maintained-beijing"
         },
         {
           "outlet": "Global Times",
           "lean": "state",
-          "date": "Jul 17",
           "title": "China has never and will never interfere in the presidential elections of the US: embassy tells GT",
           "url": "https://www.globaltimes.cn/page/202607/1366195.shtml"
         }
       ]
     },
     {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East & Eurasia",
-      "items": [
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "date": "Jul 17",
-          "title": "Trump claims China interfered in 2020 polls, contradicts US intel",
-          "url": "https://www.dailysabah.com/world/americas/trump-claims-china-interfered-in-2020-polls-contradicts-us-intel"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "date": "Jul 17",
-          "title": "Trump accuses China of interfering in US elections, says they wanted him out of the presidency",
-          "orig": "Trump acusa a China de interferir en elecciones de EU, asegura que lo querían fuera de la presidencia",
-          "url": "https://www.eluniversal.com.mx/mundo/en-vivo-trump-da-importante-discurso-desde-la-casa-blanca-sigue-el-minuto-a-minuto/"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "date": "Jul 17",
-          "title": "China rejects Trump's accusation of alleged election interference in the US, calls it 'unfounded'",
-          "orig": "China rechaza acusación de Trump sobre supuesta interferencia electoral en EU; es \"infundada\", dice",
-          "url": "https://www.eluniversal.com.mx/mundo/china-rechaza-acusacion-de-trump-sobre-supuesta-interferencia-electoral-en-eu-es-infundada-dice/"
-        }
-      ]
-    },
-    {
       "flag": "🇦🇷",
       "name": "Argentina",
-      "region": "Latin America",
+      "region": "South America",
       "items": [
         {
           "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Trump did shock and awe in 2025 – reality may bite in 2026",
-          "url": "https://www.batimes.com.ar/news/world/trump-did-shock-and-awe-in-2025-reality-may-bite-in-2026.phtml",
-          "note": "A look ahead at how a divided electorate and the cost of living could reshape Trump's year."
+          "date": "2026-07-19",
+          "title": "Spain shatters Argentina's dream with 1-0 win in World Cup final",
+          "url": "https://batimes.com.ar/news/sports/spain-shatters-argentinas-dream-with-1-0-win-in-world-cup-final.phtml"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "Outrage as FIFA's Infantino bends rules to Trump's whim at World Cup",
+          "url": "https://www.batimes.com.ar/news/sports/outrage-as-fifas-infantino-bends-rules-to-trumps-whim-at-world-cup.phtml",
+          "note": "Coverage from the losing finalist folds the sport into a wider unease about how the US host handled the tournament."
         }
       ]
     },
     {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
         {
-          "outlet": "The Punch",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "Jul 16",
-          "title": "Trump limits foreign students to four-year US stay",
-          "url": "https://punchng.com/trump-limits-foreign-students-to-four-year-us-stay/"
+          "title": "Trump administration caps how long international students can stay in the US",
+          "url": "https://www.koreaherald.com/article/10811860"
         },
         {
-          "outlet": "The Punch",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "Trump to attend World Cup final on Sunday, says White House",
-          "url": "https://punchng.com/trump-to-attend-world-cup-final-on-sunday-says-white-house/"
+          "title": "Trump opens door to expanded US Navy partnership with Korean shipbuilders",
+          "url": "https://www.koreaherald.com/article/10811275"
         }
       ]
     },
     {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
       "items": [
         {
-          "outlet": "Kyiv Post",
+          "outlet": "News24",
           "lean": "neutral",
-          "date": "Jul 17",
-          "title": "Trump Accuses China of Interfering in 2020 Election During Prime-Time Address",
-          "url": "https://www.kyivpost.com/post/80496"
+          "date": "2026-07-15",
+          "title": "US Democrats block massive defence bill over Iran war frustration",
+          "url": "https://www.news24.com/world/us-democrats-block-massive-defence-bill-over-iran-war-frustration-20260715-0341"
         },
         {
-          "outlet": "Kyiv Post",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "Trump Says US Will Let Ukraine Build Patriot Systems: 'We'll Show Them How to Make Them'",
-          "url": "https://www.kyivpost.com/post/79854"
+          "date": "2026-07-18",
+          "title": "Bahrain, Kuwait suffer attacks as Iran war escalates with US",
+          "url": "https://www.news24.com/world/bahrain-kuwait-suffer-attacks-as-iran-war-escalates-with-us-20260718-0505"
         }
       ]
     },
@@ -216,16 +171,35 @@
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "Jul 17",
-          "title": "Trump revives claims of election interference during address to nation",
-          "url": "https://www.euronews.com/2026/07/17/trump-revives-claims-of-election-interference-during-address-to-nation"
-        },
+          "date": "2026-07-20",
+          "title": "US hits Iran for ninth night as Khamenei calls ceasefire 'worthless'",
+          "url": "https://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes"
+        }
+      ]
+    },
+    {
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "Eastern Mediterranean",
+      "items": [
         {
-          "outlet": "Euronews",
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "US widens assault on Iran with strikes on bridges, key port tower",
+          "url": "https://www.dailysabah.com/world/mid-east/us-widens-assault-on-iran-with-strikes-on-bridges-key-port-tower"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
+      "items": [
+        {
+          "outlet": "Daily Nation",
           "lean": "neutral",
-          "date": "Jul 15",
-          "title": "Iran launches strikes on neighbours as Trump threatens to hit power plants",
-          "url": "https://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
+          "title": "Trump grants last-minute work permit extensions to US immigrants",
+          "url": "https://nation.africa/kenya/news/world/trump-grants-last-minute-work-permit-extensions-to-us-immigrants-5524116"
         }
       ]
     }

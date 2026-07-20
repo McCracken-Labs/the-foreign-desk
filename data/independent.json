@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-17",
-  "date_human": "Friday, July 17, 2026",
+  "date_iso": "2026-07-20",
+  "date_human": "Monday, July 20, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "8 Things You Should Know About Trump's Effort to “Take Over” the Midterm Elections",
-          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover-takeaways"
+          "title": "Inside Trump's Effort to “Take Over” the Midterm Elections",
+          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms",
-          "url": "https://www.propublica.org/article/federal-election-assistance-commission-trump-dismantled"
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         }
       ]
     },
@@ -30,21 +30,21 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "Jul 17",
+          "date": "2026-07-17",
           "title": "Trump's Formula for Forever Wars",
           "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "Donald Trump Is Unpopular. That Only Matters in a Democracy.",
-          "url": "https://jacobin.com/2026/03/trump-election-fraud-ice-authoritarianism"
+          "title": "The Americanization of the World Cup Is Here to Stay",
+          "url": "https://jacobin.com/2026/07/world-cup-americanization-fifa-infantino-trump"
         },
         {
-          "outlet": "openDemocracy (UK)",
+          "outlet": "Jacobin",
           "lean": "left",
-          "title": "How Trump 2.0 could herald a new age of authoritarian capitalism",
-          "url": "https://www.opendemocracy.net/en/trump-second-term-new-age-authoritarian-capitalism-china-musk/"
+          "title": "US Empire's Belligerent Decline in Latin America",
+          "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
         }
       ]
     },
@@ -56,28 +56,20 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Jul 17",
-          "title": "Trump makes stolen-election claims in primetime address to the nation",
-          "url": "https://reason.com/2026/07/17/election-vulnerability/"
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "Jul 17",
-          "title": "Trump threatens to revoke ABC and NBC licenses for not broadcasting his election speech",
-          "url": "https://reason.com/2026/07/17/trump-threatens-to-revoke-abc-and-nbc-licenses-for-not-broadcasting-his-election-speech/"
+          "title": "America Has a Huge Trade Surplus With Brazil. Trump Just Put 25 Percent Tariffs on Brazilian Goods Anyway.",
+          "url": "https://reason.com/2026/07/16/america-has-a-huge-trade-surplus-with-brazil-trump-just-put-25-percent-tariffs-on-brazilian-goods-anyway/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Trump's Big Election Fraud Speech",
-          "url": "https://thedispatch.com/newsletter/morning/trumps-big-election-fraud-speech/"
+          "title": "Fact-Checking Trump's Election Security Speech",
+          "url": "https://thedispatch.com/article/fact-check-trump-speech-election-security/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "Mamdani's MAGA power",
-          "url": "https://unherd.com/2026/07/mamdanis-maga-power/"
+          "title": "The Trump Accounts' false promise",
+          "url": "https://unherd.com/2026/07/trumps-crib-portfolio/?edition=us"
         }
       ]
     },
@@ -89,15 +81,15 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "Jul 15",
-          "title": "WSJ: Lindsey Graham's Russia 'sanctions' bill is really a tariffs bill, and some Democrats fear it hands Trump a trade weapon, not a blow to Moscow",
-          "url": "https://meduza.io/en/news/2026/07/15/wsj-lindsey-graham-s-russia-sanctions-bill-is-really-a-tariffs-bill-and-some-democrats-fear-it-hands-trump-a-trade-weapon-not-a-blow-to-moscow"
+          "date": "2026-07-03",
+          "title": "How the Trump-Putin summit in Alaska spawned the Kremlin's myth of the ‘spirit of Anchorage’ — and why it collapsed",
+          "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "Trump Gives Iran 1 Week or U.S. Will Target Power Plants & Bridges",
-          "url": "https://iranwire.com/en/news/154991-trump-gives-iran-1-week-or-us-will-target-power-plants-bridges/"
+          "title": "Trump: We Will Destroy the IRGC as We Did ISIS",
+          "url": "https://iranwire.com/en/news/155042-trump-we-will-destroy-the-irgc-as-we-did-isis/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
@@ -115,20 +107,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Trump has called Middle East wars 'crazy', but the US-Israel war on Iran may be the craziest yet",
-          "url": "https://www.middleeasteye.net/opinion/trump-has-called-middle-east-wars-crazy-us-israel-iran-war-may-be-craziest-yet"
+          "title": "'We have lost': Trump's Iran pact seen as a strategic defeat in Washington",
+          "url": "https://www.middleeasteye.net/news/we-have-lost-trump-iran-pact-seen-strategic-defeat-washington"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "After Trump's Latest Tariff Threat, India Terms US, EU Criticism 'Unjustified and Unreasonable'",
-          "url": "https://m.thewire.in/article/diplomacy/trump-says-he-will-substantially-raise-tariff-paid-by-india-to-us-over-russian-oil-purchases"
+          "title": "'Important to Make Me Happy': Trump Says US Can Raise Tariffs on India 'Very Quickly'",
+          "url": "https://m.thewire.in/article/world/modi-trump-important-to-make-happy-russian-oil-raise-tariffs-quickly"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "Trump is rehashing old claims the 2020 election was stolen. His real aim: sowing doubt in the midterms",
-          "url": "https://theconversation.com/trump-is-rehashing-old-claims-the-2020-election-was-stolen-his-real-aim-sowing-doubt-in-the-midterms-287774"
+          "title": "Will a 'Trump slump' continue to hit US tourism in 2026, and even keep World Cup fans away?",
+          "url": "https://theconversation.com/will-a-trump-slump-continue-to-hit-us-tourism-in-2026-and-even-keep-world-cup-fans-away-274244"
         }
       ]
     }
