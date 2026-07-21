@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-20",
-  "date_human": "Monday, July 20, 2026",
-  "summary": "11 countries. The deepening US-Iran war leads coverage abroad: the US completed a ninth straight night of strikes as the American death toll reached 17 and Iran's leadership called the ceasefire worthless. The World Cup final outside New York, where Trump was booed while handing Spain the trophy over Argentina, and his revived China election-fraud claims also travel widely.",
+  "date_iso": "2026-07-21",
+  "date_human": "Tuesday, July 21, 2026",
+  "summary": "12 countries. The reignited US-Iran war dominates coverage abroad: US forces pressed a tenth day of strikes as the American death toll reached 17, Iran called it a full-scale war, and Trump vowed Tehran would pay. New 50% US tariffs on Canadian goods and Trump's revived election-fraud claims against China also travel widely.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -12,16 +12,15 @@
           "outlet": "France 24",
           "lean": "funded",
           "date": "2026-07-19",
-          "title": "Greeted with boos, Trump lingers on stage to lap up World Cup spotlight",
-          "url": "https://www.france24.com/en/americas/20260719-greeted-with-boos-trump-lingers-on-stage-to-lap-up-world-cup-spotlight",
-          "note": "The final was played on US soil, so the crowd's reaction to the president became its own story abroad."
+          "title": "Iran fighting 'full-scale war' with US, Yemen's Houthis announce Saudi naval blockade",
+          "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed"
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-17",
-          "title": "Trump accuses China of 'largest compromise' US election data, vows to declassify intelligence",
-          "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence"
+          "date": "2026-07-20",
+          "title": "Trump signs order imposing new 50% tariffs on certain Canadian goods",
+          "url": "https://www.france24.com/en/economy/20260720-trump-signs-order-imposing-new-50-tariffs-on-certain-canadian-goods"
         }
       ]
     },
@@ -40,46 +39,52 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-18",
-          "title": "U.S. partially restores Hong Kong status revoked by Trump, drawing praise from China",
-          "url": "https://www.japantimes.co.jp/news/2026/07/18/asia-pacific/politics/us-hong-kong-status-china/"
+          "date": "2026-07-21",
+          "title": "U.S. imposes new 50% tariffs on $20 billion worth of Canadian products",
+          "url": "https://www.japantimes.co.jp/business/2026/07/21/us-50-tariff-canadian-goods-retaliation/"
         }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Gulf",
+      "region": "Middle East",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-18",
-          "title": "Iran suggests MoU 'suspended' as 50 killed in US strikes in July",
-          "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies"
+          "date": "2026-07-20",
+          "title": "Trump vows Iran will 'pay' for killing US soldiers",
+          "url": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "2026-07-20",
+          "title": "Trump rejects Mamdani's threat to arrest Israel's Netanyahu for war crimes",
+          "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eurasia",
+      "region": "Eastern Europe and Eurasia",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "2026-07-20",
-          "title": "Trump: Iran still has missiles, drones and production facilities",
-          "url": "https://russian.rt.com/world/news/1659093-tramp-iran-moschnosti",
-          "orig": "Трамп: у Ирана по-прежнему есть ракеты, БПЛА и производственные мощности",
-          "note": "State television frames the admission as a sign that US strikes have not achieved their aim."
+          "title": "Trump imposes 50% tariffs on goods from Canada over discrimination against US exports",
+          "url": "https://russian.rt.com/business/news/1659538-tramp-kanada-poshliny",
+          "orig": "Трамп ввёл 50%-ные пошлины на товары из Канады из-за дискриминации экспорта США",
+          "note": "Russian state media plays up friction between Washington and a close US neighbour."
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump says strikes on Iran will continue until he personally stops them",
-          "url": "https://russian.rt.com/world/news/1656936-tramp-udary-iran",
-          "orig": "Трамп заявил, что удары по Ирану продолжатся, пока он лично не остановит их"
+          "title": "NYT: Trump rejected nearly 6,000 requests for pardons or clemency",
+          "url": "https://russian.rt.com/world/news/1659730-tramp-proshenie-pomilovanie-otklonenie",
+          "orig": "NYT: Трамп отклонил почти 6 тысяч прошений о помиловании или смягчении наказания"
         }
       ]
     },
@@ -91,35 +96,94 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "China and US still in contact on Xi summit trip despite Trump's election claims",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3361215/china-us-talks-ahead-xi-jinpings-planned-september-visit-maintained-beijing"
+          "title": "Trump intelligence pick to play 'helpful' role in agreeing economic strategy with China",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3360726/trump-intelligence-pick-play-helpful-role-agreeing-economic-strategy-china"
         },
         {
-          "outlet": "Global Times",
-          "lean": "state",
-          "title": "China has never and will never interfere in the presidential elections of the US: embassy tells GT",
-          "url": "https://www.globaltimes.cn/page/202607/1366195.shtml"
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "US Supreme Court strikes down Trump birthright citizenship order",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3358939/us-supreme-court-strikes-down-trump-birthright-citizenship-order"
         }
       ]
     },
     {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "South America",
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "Pan-European",
       "items": [
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-07-19",
-          "title": "Spain shatters Argentina's dream with 1-0 win in World Cup final",
-          "url": "https://batimes.com.ar/news/sports/spain-shatters-argentinas-dream-with-1-0-win-in-world-cup-final.phtml"
+          "date": "2026-07-15",
+          "title": "Iran launches strikes on neighbours as Trump threatens to hit power plants",
+          "url": "https://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
         },
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "Euronews",
           "lean": "neutral",
-          "title": "Outrage as FIFA's Infantino bends rules to Trump's whim at World Cup",
-          "url": "https://www.batimes.com.ar/news/sports/outrage-as-fifas-infantino-bends-rules-to-trumps-whim-at-world-cup.phtml",
-          "note": "Coverage from the losing finalist folds the sport into a wider unease about how the US host handled the tournament."
+          "date": "2026-07-13",
+          "title": "Trump reimposes US blockade and demands 20% Hormuz shipping fee",
+          "url": "https://www.euronews.com/2026/07/13/trump-reimposes-us-blockade-and-demands-20-hormuz-shipping-fee"
+        }
+      ]
+    },
+    {
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "Middle East",
+      "items": [
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "Trump formally notifies Congress over resumption of Iran war",
+          "url": "https://www.dailysabah.com/world/americas/trump-formally-notifies-congress-over-resumption-of-iran-war"
+        },
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "US to tighten visa regulations for journalists, foreign students",
+          "url": "https://www.dailysabah.com/world/americas/us-to-tighten-visa-regulations-for-journalists-foreign-students"
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
+      "items": [
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "US bombs command centres in Iran; Trump threatens to make Tehran pay for soldiers' deaths",
+          "url": "https://www.eluniversal.com.mx/mundo/eu-bombardea-centros-de-mando-en-iran-trump-amenaza-con-hacer-pagar-a-teheran-por-muerte-de-soldados/",
+          "orig": "EU bombardea centros de mando en Irán; Trump amenaza con hacer pagar a Teherán por muerte de soldados"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Trump announces 25% tariffs on any country that 'does business' with Iran; China and Iraq main trade partners",
+          "url": "https://www.eluniversal.com.mx/mundo/trump-anuncia-aranceles-del-25-a-cualquier-pais-que-haga-negocios-con-iran-china-e-irak-principales-socios-comerciales/",
+          "orig": "Trump anuncia aranceles del 25% a cualquier país que \"haga negocios\" con Irán; China e Irak principales socios comerciales"
+        }
+      ]
+    },
+    {
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
+      "items": [
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "US says retaliatory strikes launched after Iran attack kills troops",
+          "url": "https://punchng.com/us-says-retaliatory-strikes-launched-after-iran-attack-kills-troops/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Another round of anti-Trump protests hits US cities",
+          "url": "https://punchng.com/another-round-of-anti-trump-protests-hits-us-cities/"
         }
       ]
     },
@@ -137,8 +201,27 @@
         {
           "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "Trump opens door to expanded US Navy partnership with Korean shipbuilders",
-          "url": "https://www.koreaherald.com/article/10811275"
+          "title": "Trump says US will look at S. Korean, other firms for shipbuilding cooperation to strengthen Navy",
+          "url": "https://www.koreaherald.com/article/10810478"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Trump Pushes for Iran's Inclusion in Lindsey Graham's Russia Sanctions Bill",
+          "url": "https://www.kyivpost.com/post/80673"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Israel Shared Intelligence on Alleged Iranian Plot Against Trump",
+          "url": "https://www.kyivpost.com/post/79994"
         }
       ]
     },
@@ -150,56 +233,16 @@
         {
           "outlet": "News24",
           "lean": "neutral",
-          "date": "2026-07-15",
-          "title": "US Democrats block massive defence bill over Iran war frustration",
-          "url": "https://www.news24.com/world/us-democrats-block-massive-defence-bill-over-iran-war-frustration-20260715-0341"
+          "date": "2026-07-17",
+          "title": "Trump revives 'stolen election' claims, accuses China of meddling",
+          "url": "https://www.news24.com/world/trump-revives-stolen-election-claims-accuses-china-of-meddling-20260717-0345"
         },
         {
           "outlet": "News24",
           "lean": "neutral",
-          "date": "2026-07-18",
-          "title": "Bahrain, Kuwait suffer attacks as Iran war escalates with US",
-          "url": "https://www.news24.com/world/bahrain-kuwait-suffer-attacks-as-iran-war-escalates-with-us-20260718-0505"
-        }
-      ]
-    },
-    {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "European Union",
-      "items": [
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "2026-07-20",
-          "title": "US hits Iran for ninth night as Khamenei calls ceasefire 'worthless'",
-          "url": "https://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes"
-        }
-      ]
-    },
-    {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Eastern Mediterranean",
-      "items": [
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "US widens assault on Iran with strikes on bridges, key port tower",
-          "url": "https://www.dailysabah.com/world/mid-east/us-widens-assault-on-iran-with-strikes-on-bridges-key-port-tower"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "East Africa",
-      "items": [
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Trump grants last-minute work permit extensions to US immigrants",
-          "url": "https://nation.africa/kenya/news/world/trump-grants-last-minute-work-permit-extensions-to-us-immigrants-5524116"
+          "date": "2026-07-14",
+          "title": "Oil jumps over 9% as 'very hard' US strikes hit Iran, Trump vows Hormuz control",
+          "url": "https://www.news24.com/world/oil-jumps-over-9-as-very-hard-us-strikes-hit-iran-trump-vows-hormuz-control-20260714-0290"
         }
       ]
     }

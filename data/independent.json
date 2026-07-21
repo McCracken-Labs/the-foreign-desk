@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-20",
-  "date_human": "Monday, July 20, 2026",
+  "date_iso": "2026-07-21",
+  "date_human": "Tuesday, July 21, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,8 +11,8 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Inside Trump's Effort to “Take Over” the Midterm Elections",
-          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover"
+          "title": "Trump Administration Killed Criminal Investigation of GOP Senator's Coal Companies",
+          "url": "https://www.propublica.org/article/trump-jim-justice-doj-southern-coal-investigation-west-virginia"
         },
         {
           "outlet": "ProPublica",
@@ -30,21 +30,21 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-17",
-          "title": "Trump's Formula for Forever Wars",
-          "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "title": "The Americanization of the World Cup Is Here to Stay",
-          "url": "https://jacobin.com/2026/07/world-cup-americanization-fifa-infantino-trump"
+          "date": "2026-07-20",
+          "title": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+          "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
           "title": "US Empire's Belligerent Decline in Latin America",
           "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
+        },
+        {
+          "outlet": "Jacobin",
+          "lean": "left",
+          "title": "Trump Wants Wall Street to Manage Your Retirement",
+          "url": "https://jacobin.com/2026/05/trump-retirement-privatization-social-security"
         }
       ]
     },
@@ -56,8 +56,8 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "title": "America Has a Huge Trade Surplus With Brazil. Trump Just Put 25 Percent Tariffs on Brazilian Goods Anyway.",
-          "url": "https://reason.com/2026/07/16/america-has-a-huge-trade-surplus-with-brazil-trump-just-put-25-percent-tariffs-on-brazilian-goods-anyway/"
+          "title": "A year after 'Liberation Day,' Trump's tariffs will never be legitimate without a vote in Congress",
+          "url": "https://reason.com/2026/04/02/a-year-after-liberation-day-trumps-tariffs-will-never-be-legitimate-without-a-vote-in-congress/"
         },
         {
           "outlet": "The Dispatch",
@@ -68,8 +68,8 @@
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "The Trump Accounts' false promise",
-          "url": "https://unherd.com/2026/07/trumps-crib-portfolio/?edition=us"
+          "title": "Trump's shadow economy",
+          "url": "https://unherd.com/2026/07/trumps-shadow-economy/?edition=us"
         }
       ]
     },
@@ -81,9 +81,15 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-03",
-          "title": "How the Trump-Putin summit in Alaska spawned the Kremlin's myth of the ‘spirit of Anchorage’ — and why it collapsed",
-          "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed"
+          "date": "2026-07-15",
+          "title": "WSJ: Lindsey Graham's Russia 'sanctions' bill is really a tariffs bill, and some Democrats fear it hands Trump a trade weapon, not a blow to Moscow",
+          "url": "https://meduza.io/en/news/2026/07/15/wsj-lindsey-graham-s-russia-sanctions-bill-is-really-a-tariffs-bill-and-some-democrats-fear-it-hands-trump-a-trade-weapon-not-a-blow-to-moscow"
+        },
+        {
+          "outlet": "IranWire (Iran, in exile)",
+          "lean": "exile",
+          "title": "Trump Gives Iran 1 Week or U.S. Will Target Power Plants & Bridges",
+          "url": "https://iranwire.com/en/news/154991-trump-gives-iran-1-week-or-us-will-target-power-plants-bridges/"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -92,10 +98,11 @@
           "url": "https://iranwire.com/en/news/155042-trump-we-will-destroy-the-irgc-as-we-did-isis/"
         },
         {
-          "outlet": "The Kyiv Independent (Ukraine)",
+          "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "title": "Trump makes U-turn on Ukraine drone deal",
-          "url": "https://kyivindependent.com/trump-makes-u-turn-on-ukraine-drone-deal/"
+          "date": "2026-07-19",
+          "title": "US ends its state of emergency over Hong Kong security threat",
+          "url": "https://hongkongfp.com/2026/07/19/us-ends-its-state-of-emergency-over-hong-kong-security-threat/"
         }
       ]
     },
@@ -107,20 +114,26 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "'We have lost': Trump's Iran pact seen as a strategic defeat in Washington",
-          "url": "https://www.middleeasteye.net/news/we-have-lost-trump-iran-pact-seen-strategic-defeat-washington"
-        },
-        {
-          "outlet": "The Wire (India)",
-          "lean": "indie",
-          "title": "'Important to Make Me Happy': Trump Says US Can Raise Tariffs on India 'Very Quickly'",
-          "url": "https://m.thewire.in/article/world/modi-trump-important-to-make-happy-russian-oil-raise-tariffs-quickly"
+          "title": "Trump has called Middle East wars 'crazy', but the US-Israel war on Iran may be the craziest yet",
+          "url": "https://www.middleeasteye.net/opinion/trump-has-called-middle-east-wars-crazy-us-israel-iran-war-may-be-craziest-yet"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "Will a 'Trump slump' continue to hit US tourism in 2026, and even keep World Cup fans away?",
-          "url": "https://theconversation.com/will-a-trump-slump-continue-to-hit-us-tourism-in-2026-and-even-keep-world-cup-fans-away-274244"
+          "title": "Despite Trump's wishes, Iran is dragging the US into a long war",
+          "url": "https://theconversation.com/despite-trumps-wishes-iran-is-dragging-the-us-into-a-long-war-287163"
+        },
+        {
+          "outlet": "The Wire (India)",
+          "lean": "indie",
+          "title": "US Opens Process for Trump Tariff Refunds, But Indian Exporters Unlikely to See the Benefits",
+          "url": "https://m.thewire.in/article/trade/us-opens-process-for-trump-tariff-refunds-but-indian-exporters-unlikely-to-see-the-benefits"
+        },
+        {
+          "outlet": "Rappler (Philippines)",
+          "lean": "indie",
+          "title": "US lawmakers to Trump: Do more for Philippines in South China Sea",
+          "url": "https://www.rappler.com/philippines/united-states-democratic-lawmakers-trump-support-manila-south-china-sea/"
         }
       ]
     }
